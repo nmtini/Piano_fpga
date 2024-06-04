@@ -1,0 +1,1 @@
+Designed for Nexys A7 100T. Uses USB keyboard for input and outputs audio through 3.5mm auxiliary jack on the board. Also outputs current keycode hex on seven segment display and current keycode in binary on LEDs.
